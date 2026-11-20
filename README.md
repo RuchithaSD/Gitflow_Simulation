@@ -8,3 +8,7 @@
   - Multiplication
   - Division
   - Power calculation
+
+## Git Hooks
+
+A pre-commit hook automatically runs tests before committing changes.
